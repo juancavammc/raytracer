@@ -1,0 +1,1 @@
+g++ main.cpp camera.cpp checker.cpp cylinder.cpp image.cpp io.cpp line.cpp material.cpp plane.cpp raytracer.cpp rtobject.cpp sphere.cpp -o rtprogram
