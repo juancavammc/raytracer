@@ -1,0 +1,15 @@
+Lineas lanzadas:
+- Camara: 1048576
+- Sombra: 213516816
+- Reflejadas: 549200
+- Refractadas: 0
+- Antialiasing: 4194304
+- Total: 219308896
+-------------------------------------------------------------------------
+- Numero de intersecciones: 218260320
+- Intersecciones positivas: 30272799
+- Ratio de acierto: 13.87%
+-------------------------------------------------------------------------
+- Numero de luces: 3
+- Numero de objetos:  2
+- Resolución: 1024x1024
